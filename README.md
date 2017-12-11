@@ -12,3 +12,7 @@
 ```go
 go get github.com/dragonzurfer/star
 ```
+
+#### Usage 
+
+![Demo 1](https://github.com/dragonzurfer/star/blob/master/media/demo1.gif)
