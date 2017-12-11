@@ -21,7 +21,7 @@ go get github.com/dragonzurfer/star
 
 1. Fork It
 
-2. Clone It ```git clone https://github.com/<YOUR_HANDLENAME>/moe.git```
+2. Clone It ```git clone https://github.com/<YOUR_HANDLENAME>/star.git```
 
 3. Get your own branch```git checkout -b YOUR_FEATURE```
 
