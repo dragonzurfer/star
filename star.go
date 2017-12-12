@@ -79,11 +79,11 @@ func PrintParams() {
 
 		emoji.Println("  AWSM! :clap: ")
 
-	} else if stars < 1000 {
+	} else if stars >= 100 && stars < 1000 {
 
 		emoji.Printf("  %v Deserves a :beer:\n", username)
 
-	} else {
+	} else if stars >= 1000 {
 
 		emoji.Printf("  WOW! %v is popular :lollipop:\n", reponame)
 
